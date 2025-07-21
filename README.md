@@ -7,6 +7,14 @@
 <div align="center">
   Fei&nbsp;Teng</a> 
   <b>&middot;</b>
+  Kai&nbsp;Luo</a> 
+  <b>&middot;</b>
+  Wu&nbsp;Sheng</a> 
+  <b>&middot;</b>
+  Siyu&nbsp;Li</a> 
+  <b>&middot;</b>
+  Jiale&nbsp;Wei</a> 
+  <b>&middot;</b>
   <a href="https://www.researchgate.net/profile/Jiaming-Zhang-10" target="_blank">Jiaming&nbsp;Zhang</a> 
   <b>&middot;</b>
   <a href="https://www.researchgate.net/profile/Kunyu-Peng" target="_blank">Kunyu&nbsp;Peng</a> 
