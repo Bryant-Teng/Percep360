@@ -26,7 +26,7 @@
 
 </div>
 
-<div align=center><img src="assets/Figone.jpg" width="820" height="400" /></div>
+%<div align=center><img src="assets/Figone.jpg" width="820" height="400" /></div>
 
 ### Update
 - 2025.07.21 Codestuff is on processing.
