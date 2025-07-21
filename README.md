@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">:hammer_and_wrench: :construction_worker: :rocket:</p>
-<p align="center">:fire: This repository is an integration of OAFuser and LFTrancy. :fire:</p>
+<p align="center">:fire: This repository is the repository of Percep360. :fire:</p>
 
 </div>
 
@@ -39,7 +39,7 @@
 
 - [ ] Release the arXiv version.
 - [ ] The code for OAFuser has been released.
-- [ ] The integration of OAFuser and LFTracy will be released.
+- [ ] The integration of Code will be released.
 - [ ] Train and Eval strategy will be released.
 - [ ] Checkpoints will be released.
 
